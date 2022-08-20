@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-b(zjlz7z@12)20+1wr@i^8lcnlfym@j6v-!$619&nx!592s1zw
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'telechatt.herokuapp.com/']
+ALLOWED_HOSTS = ['127.0.0.1', 'telechatt.herokuapp.com']
 
 
 # Application definition
